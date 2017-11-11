@@ -4,17 +4,93 @@
     <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_SceneController.-1120653831.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="ClientObject.cs" t="Include" />
+        <e p="NetMQ" t="Include">
+          <e p="ClientObject.cs" t="Include" />
+          <e p="ServerObject.cs" t="Include" />
+        </e>
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
             <e p="JetBrains" t="Include">
               <e p="Unity3DRider.cs" t="Include" />
             </e>
           </e>
+          <e p="GameDevWare.Serialization" t="Include">
+            <e p="GenerateTypeSerializerAttribute.cs" t="Include" />
+            <e p="IJsonReader.cs" t="Include" />
+            <e p="IJsonWriter.cs" t="Include" />
+            <e p="IndexedDictionary.cs" t="Include" />
+            <e p="IValueInfo.cs" t="Include" />
+            <e p="Json.cs" t="Include" />
+            <e p="JsonMember.cs" t="Include" />
+            <e p="JsonReader.cs" t="Include" />
+            <e p="JsonReaderExtentions.cs" t="Include" />
+            <e p="JsonSerializationException.cs" t="Include" />
+            <e p="JsonStreamReader.cs" t="Include" />
+            <e p="JsonStreamWriter.cs" t="Include" />
+            <e p="JsonStringBuilderReader.cs" t="Include" />
+            <e p="JsonStringBuilderWriter.cs" t="Include" />
+            <e p="JsonStringReader.cs" t="Include" />
+            <e p="JsonTextReader.cs" t="Include" />
+            <e p="JsonTextWriter.cs" t="Include" />
+            <e p="JsonToken.cs" t="Include" />
+            <e p="JsonUtils.cs" t="Include" />
+            <e p="JsonWriter.cs" t="Include" />
+            <e p="JsonWriterExtentions.cs" t="Include" />
+            <e p="MessagePack" t="Include">
+              <e p="BigEndianBitConverter.cs" t="Include" />
+              <e p="EndianBitConverter.cs" t="Include" />
+              <e p="Endianness.cs" t="Include" />
+              <e p="LittleEndianBitConverter.cs" t="Include" />
+              <e p="MsgPackExtType.cs" t="Include" />
+              <e p="MsgPackReader.cs" t="Include" />
+              <e p="MsgPackType.cs" t="Include" />
+              <e p="MsgPackWriter.cs" t="Include" />
+              <e p="UnknownMsgPackExtentionTypeException.cs" t="Include" />
+              <e p="UnknownMsgPackFormatException.cs" t="Include" />
+            </e>
+            <e p="Metadata" t="Include">
+              <e p="DataMemberDescription.cs" t="Include" />
+              <e p="FieldDescription.cs" t="Include" />
+              <e p="MemberDescription.cs" t="Include" />
+              <e p="PropertyDescription.cs" t="Include" />
+              <e p="ReflectionUtils.cs" t="Include" />
+              <e p="TypeDescription.cs" t="Include" />
+            </e>
+            <e p="MsgPack.cs" t="Include" />
+            <e p="ReflectionExtentions.cs" t="Include" />
+            <e p="SerializationContext.cs" t="Include" />
+            <e p="SerializationOptions.cs" t="Include" />
+            <e p="Serializers" t="Include">
+              <e p="ArraySerializer.cs" t="Include" />
+              <e p="BinarySerializer.cs" t="Include" />
+              <e p="BoundsSerializer.cs" t="Include" />
+              <e p="DateTimeOffsetSerializer.cs" t="Include" />
+              <e p="DateTimeSerializer.cs" t="Include" />
+              <e p="DictionaryEntrySerializer.cs" t="Include" />
+              <e p="DictionarySerializer.cs" t="Include" />
+              <e p="EnumNumberSerializer.cs" t="Include" />
+              <e p="EnumSerializer.cs" t="Include" />
+              <e p="GuidSerializer.cs" t="Include" />
+              <e p="Matrix4x4Serializer.cs" t="Include" />
+              <e p="ObjectSerializer.cs" t="Include" />
+              <e p="PrimitiveTypeSerializer.cs" t="Include" />
+              <e p="QuaternionSerializer.cs" t="Include" />
+              <e p="RectSerializer.cs" t="Include" />
+              <e p="StreamSerializer.cs" t="Include" />
+              <e p="TimeSpanSerializer.cs" t="Include" />
+              <e p="UriSerializer.cs" t="Include" />
+              <e p="Vector2Serializer.cs" t="Include" />
+              <e p="Vector3Serializer.cs" t="Include" />
+              <e p="Vector4Serializer.cs" t="Include" />
+              <e p="VersionSerializer.cs" t="Include" />
+            </e>
+            <e p="TypeSerializer.cs" t="Include" />
+            <e p="TypeSerializerAttribute.cs" t="Include" />
+          </e>
         </e>
-        <e p="ServerObject.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
