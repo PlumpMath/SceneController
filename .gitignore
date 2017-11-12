@@ -33,5 +33,10 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# CR/LF settings
+*.sln eol=crlf
+*.csproj eol=crlf
+*.asset eol=lf
+
 # MacOSX
 **/.DS_Store
